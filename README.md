@@ -1,17 +1,14 @@
-# sparkApp
+# Spark- Databricks (edX-XSeries Apache Spark)
 
 <br />
-Repository contains applications using **spark**.
+Repository contains applications using **pySpark**.
 
 <br />
-To run application you must have **spark** installed on your computer
-
-<br />
+To run application you must have **spark** installed on your computer<br />
 Language: Python
 
-<br />
-Data Sets in the Application folder:<br />
-
-Links provided, u can dowload the dataset and use it or can download your own dataset and use it
+### Courses:<br />
+1. BerkeleyX-CS100.1x-Big-Data-with-Apache-Spark
+2. BerkeleyX-CS190.1x-Scalable-Machine-Learning
 
 
